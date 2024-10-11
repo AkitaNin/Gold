@@ -1,6 +1,6 @@
 public class Step1 {
     public static void main(String[] args) {
-        //psvm --> enter
+        //psvm --> enter. thay đổi 1 xíu
         System.out.printf("Xin chào - hello");
         //printf in ra không xuống dòng
         System.out.println("Tao nè");
